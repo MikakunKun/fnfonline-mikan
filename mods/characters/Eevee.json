@@ -1,13 +1,80 @@
 {
 	"animations": [
 		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Eevee Idle",
 			"indices": [
 				0,
 				1,
@@ -24,17 +91,17 @@
 				12,
 				13,
 				14
-			],
-			"name": "Eevee Idle"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceRight",
+			"fps": 24,
+			"name": "Eevee Idle",
 			"indices": [
 				15,
 				16,
@@ -47,127 +114,159 @@
 				23,
 				24,
 				25
-			],
-			"name": "Eevee Idle"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				27,
 				7
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Eevee Left"
+			"fps": 24,
+			"name": "Eevee Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-38,
 				-13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Eevee Right"
+			"fps": 24,
+			"name": "Eevee Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-26,
 				52
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Eevee Up"
+			"fps": 24,
+			"name": "Eevee Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				102,
 				-113
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Eevee Down"
+			"fps": 24,
+			"name": "Eevee Down",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				17,
 				-1
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Eevee MissLeft",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Eevee MissLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				95,
 				-149
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Eevee MissDown",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Eevee MissDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-36,
 				37
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Eevee MissUp",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Eevee MissUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-24,
 				-18
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Eevee MissRight",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Eevee MissRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-5,
 				14
 			],
-			"anim": "Eevee Waiting",
+			"loop": false,
 			"fps": 24,
-			"name": "Eevee Waiting",
-			"indices": []
+			"anim": "Eevee Waiting",
+			"indices": [],
+			"name": "Eevee Waiting"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				28,
 				1
 			],
+			"anim": "Eevee Pose",
+			"fps": 24,
+			"name": "Eevee Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				243,
+				70
+			],
 			"loop": false,
 			"fps": 24,
-			"anim": "Eevee Pose",
+			"anim": "firstDeath",
 			"indices": [],
-			"name": "Eevee Pose"
+			"name": "Eevee go poof"
+		},
+		{
+			"offsets": [
+				247,
+				-456
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Eevee Dead Loop"
+		},
+		{
+			"offsets": [
+				298,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Eevee Retry"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "veefunkin/characters/Eevee",
+	"image": "characters/Eevee",
 	"position": [
 		0,
 		200
 	],
-	"healthicon": "veefunkin/Vee",
+	"healthicon": "Vee",
 	"flip_x": true,
 	"healthbar_colors": [
 		202,
@@ -175,12 +274,8 @@
 		67
 	],
 	"camera_position": [
-		200,
-		0
-	],
-	"rating_position": [
-		0,
-		80
+		20,
+		200
 	],
 	"sing_duration": 4,
 	"scale": 1
