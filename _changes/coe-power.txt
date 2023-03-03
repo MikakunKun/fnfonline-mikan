@@ -1,10 +1,4 @@
 mods/data/coe-power/coe-power-hard.json
-mods/characters/kaiju-paradise-bf-pixel.json
-mods/characters/coe-kaiju.json
-mods/images/kaiju-paradise/characters/bfPixel.png
-mods/images/kaiju-paradise/characters/bfPixel.xml
-mods/images/kaiju-paradise/characters/coe-kaiju.png
-mods/images/kaiju-paradise/characters/coe-kaiju.xml
 mods/songs/coe-power/Voices.ogg
 mods/songs/coe-power/voices.ogg
 mods/songs/coe-power/Inst.ogg
