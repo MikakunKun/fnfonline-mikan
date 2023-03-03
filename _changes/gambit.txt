@@ -30,6 +30,9 @@ mods/images/funkmon/MapPixel1.png
 mods/images/funkmon/Map13.png
 mods/images/funkmon/Map12.png
 mods/images/funkmon/Map11.png
+mods/images/funkmon/Warning.png
+mods/images/funkmon/PIXELNOTE_assets.png
+mods/images/funkmon/PIXELNOTE_assets.xml
 mods/images/funkmon/Swift_Note_assets.png
 mods/images/funkmon/Swift_Note_assets.xml
 mods/images/funkmon/Swift_Splash_assets.png

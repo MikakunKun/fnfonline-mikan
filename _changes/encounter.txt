@@ -16,6 +16,7 @@ mods/images/funkmon/characters/Spinda_GF.png
 mods/images/funkmon/characters/Spinda_GF.xml
 mods/custom_events/DodgeEvent.lua
 mods/custom_events/Image Flash.lua
+mods/images/funkmon/Warning.png
 mods/images/funkmon/Map14.png
 mods/images/funkmon/MapPixel1.png
 mods/images/funkmon/Map13.png
