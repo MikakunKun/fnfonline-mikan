@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Eevee swimmin.png">
+<TextureAtlas imagePath="Eevee-Swimmin.png">
 	<!-- Created with Adobe Animate version 21.0.7.42652 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Eevee Swim Down0000" x="28" y="28" width="570" height="545" pivotX="35.15" pivotY="294.5" frameX="-15" frameY="-22" frameWidth="585" frameHeight="567"/>

@@ -18,6 +18,14 @@ mods/images/vsred/characters/pixelred.xml
 mods/characters/pixel-bf-pokemon-master.json
 mods/images/vsred/characters/pixelbf.png
 mods/images/vsred/characters/pixelbf.xml
+mods/images/vsred/charizard.png
+mods/images/vsred/charizard.xml
+mods/images/vsred/pixelcharizard.png
+mods/images/vsred/pixelcharizard.xml
+mods/images/vsred/pikachu.png
+mods/images/vsred/pikachu.xml
+mods/images/vsred/pixelpikachu.png
+mods/images/vsred/pixelpikachu.xml
 mods/custom_notetypes/Pixel Liza Note.lua
 mods/custom_notetypes/pixelnote.lua
 mods/custom_notetypes/Pixel Pika Note.lua

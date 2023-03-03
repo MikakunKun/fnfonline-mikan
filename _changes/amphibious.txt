@@ -7,8 +7,8 @@ mods/characters/Vaporeon Swim.json
 mods/characters/Leafeon Ocean.json
 mods/stages/Ocean.json
 mods/stages/Ocean.lua
-mods/images/veefunkin/characters/Eevee Swimmin.png
-mods/images/veefunkin/characters/Eevee Swimmin.xml
+mods/images/veefunkin/characters/Eevee-Swimmin.png
+mods/images/veefunkin/characters/Eevee-Swimmin.xml
 mods/images/veefunkin/characters/Vaporeon swimmin.png
 mods/images/veefunkin/characters/Vaporeon swimmin.xml
 mods/images/veefunkin/characters/Leafeon Ocean.png
