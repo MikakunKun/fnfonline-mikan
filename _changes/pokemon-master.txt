@@ -18,14 +18,6 @@ mods/images/vsred/characters/pixelred.xml
 mods/characters/pixel-bf-pokemon-master.json
 mods/images/vsred/characters/pixelbf.png
 mods/images/vsred/characters/pixelbf.xml
-mods/images/vsred/charizard.png
-mods/images/vsred/charizard.xml
-mods/images/vsred/pixelcharizard.png
-mods/images/vsred/pixelcharizard.xml
-mods/images/vsred/pikachu.png
-mods/images/vsred/pikachu.xml
-mods/images/vsred/pixelpikachu.png
-mods/images/vsred/pixelpikachu.xml
 mods/custom_notetypes/Pixel Liza Note.lua
 mods/custom_notetypes/pixelnote.lua
 mods/custom_notetypes/Pixel Pika Note.lua
@@ -33,9 +25,25 @@ mods/custom_notetypes/Liza Note.lua
 mods/custom_notetypes/Pika Note.lua
 mods/images/vsred/healthBar.png
 mods/images/vsred/fondo_pokemon_1.png
+mods/images/vsred/charizard.png
+mods/images/vsred/charizard.xml
+mods/images/vsred/pikachu.png
+mods/images/vsred/pikachu.xml
 mods/images/vsred/fondo_pokemon_2.png
+mods/images/vsred/pixelcharizard.png
+mods/images/vsred/pixelcharizard.xml
+mods/images/vsred/pixelpikachu.png
+mods/images/vsred/pixelpikachu.xml
+mods/images/vsred/fuegopixelnotes.png
+mods/images/vsred/fuegopixelnotes.xml
 mods/sounds/Flame.ogg
+mods/images/vsred/NOTE_assets.png
+mods/images/vsred/NOTE_assets.xml
+mods/images/vsred/flechassssssss.png
+mods/images/vsred/flechassssssss.xml
 mods/sounds/Thunder.ogg
+mods/images/vsred/PIKANOTE_assets.png
+mods/images/vsred/PIKANOTE_assets.xml
 mods/songs/pokemon-master/Voices.ogg
 mods/songs/pokemon-master/voices.ogg
 mods/songs/pokemon-master/Inst.ogg
