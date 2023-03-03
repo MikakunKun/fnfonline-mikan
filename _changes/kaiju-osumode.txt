@@ -1,0 +1,5 @@
+mods/data/kaiju/kaiju-hard.json
+mods/songs/kaiju/Voices.ogg
+mods/songs/kaiju/voices.ogg
+mods/songs/kaiju/Inst.ogg
+mods/songs/kaiju/inst.ogg

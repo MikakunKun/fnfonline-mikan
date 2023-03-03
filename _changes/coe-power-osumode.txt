@@ -1,0 +1,5 @@
+mods/data/coe-power/coe-power-hard.json
+mods/songs/coe-power/Voices.ogg
+mods/songs/coe-power/voices.ogg
+mods/songs/coe-power/Inst.ogg
+mods/songs/coe-power/inst.ogg

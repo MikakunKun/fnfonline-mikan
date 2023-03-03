@@ -1,0 +1,5 @@
+mods/data/blackout/blackout-hard.json
+mods/songs/blackout/Voices.ogg
+mods/songs/blackout/voices.ogg
+mods/songs/blackout/Inst.ogg
+mods/songs/blackout/inst.ogg
