@@ -44,6 +44,8 @@ mods/images/vsred/flechassssssss.xml
 mods/sounds/Thunder.ogg
 mods/images/vsred/PIKANOTE_assets.png
 mods/images/vsred/PIKANOTE_assets.xml
+mods/images/vsred/LIZANOTE_assets.png
+mods/images/vsred/LIZANOTE_assets.xml
 mods/songs/pokemon-master/Voices.ogg
 mods/songs/pokemon-master/voices.ogg
 mods/songs/pokemon-master/Inst.ogg
