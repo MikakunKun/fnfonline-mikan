@@ -4,7 +4,7 @@ function onCreate()
 	makeLuaSprite('BeachSky', 'veefunkin/BeachSky', -1600, -200);
         addLuaSprite('BeachSky', false)
 
-	makeLuaSprite('Land', 'veefunkin/BeachSkyLand', 500, 600);
+	makeLuaSprite('Land', 'veefunkin/Land', 500, 600);
         addLuaSprite('Land', false)
 
         makeAnimatedLuaSprite('BeachOcean', 'veefunkin/BeachOcean', -1500, 650)
