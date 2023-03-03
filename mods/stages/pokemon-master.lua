@@ -236,6 +236,22 @@ function onUpdatePost(elapsed)
 	end
 end
 
+function onBeatHit()
+    if ((curBeat % 2) == 0) then
+        if (getHealth() <= 0.5 and getHealth() > 0) then
+            playSound('lowhp', 1)
+        end
+        -- if not (getProperty('chadizard.animation.curAnim.name') ~= 'idle' and not getProperty('chadizard.animation.curAnim.finished')) then
+        if not (not getProperty('chadizard.animation.curAnim.finished')) then
+            objectPlayAnimation('chadizard','idle');
+        end
+        -- if not (getProperty('pikachu.animation.curAnim.name') ~= 'idle' and not getProperty('pikachu.animation.curAnim.finished')) then
+        if not (not getProperty('pikachu.animation.curAnim.finished')) then
+            objectPlayAnimation('pikachu','idle');
+        end
+    end
+end
+
 function goodNoteHit(membersIndex, noteData, noteType, isSustainNote)
 	NoteHit(noteType)
 end
