@@ -12,12 +12,12 @@ mods/images/veefunkin/characters/Vaporeon.xml
 mods/images/veefunkin/characters/Leafeon Beach.png
 mods/images/veefunkin/characters/Leafeon Beach.xml
 mods/images/veefunkin/BeachSky.png
+mods/images/veefunkin/Land.png
 mods/images/veefunkin/BeachOcean.png
 mods/images/veefunkin/BeachOcean.xml
 mods/images/veefunkin/Sylveon Beach.png
 mods/images/veefunkin/Sylveon Beach.xml
 mods/images/veefunkin/BeachForeground.png
-mods/images/veefunkin/Land.png
 mods/songs/low-tide/Voices.ogg
 mods/songs/low-tide/voices.ogg
 mods/songs/low-tide/Inst.ogg
