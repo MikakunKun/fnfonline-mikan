@@ -16,16 +16,28 @@ mods/images/funkmon/characters/Spinda_GF.png
 mods/images/funkmon/characters/Spinda_GF.xml
 mods/custom_events/DodgeEvent.lua
 mods/custom_events/Image Flash.lua
-mods/images/funkmon/Warning.png
+mods/images/funkmon/warning.png
 mods/images/funkmon/Dark BG.png
 mods/images/funkmon/Eevee art.png
-mods/images/funkmon/Encountert text warning.png
+mods/images/funkmon/Level up text warning.png
+mods/images/funkmon/Encounter text warning.png
 mods/images/funkmon/Map14.png
 mods/images/funkmon/MapPixel1.png
 mods/images/funkmon/Map13.png
 mods/images/funkmon/Map12.png
 mods/images/funkmon/Map11.png
-mods/images/funkmon/warning.png
+mods/images/funkmon/Swift_Note_Pixel_assets.png
+mods/images/funkmon/Swift_Note_Pixel_assets.xml
+mods/images/funkmon/Swift_Splash_Pixel_assets.png
+mods/images/funkmon/Swift_Splash_Pixel_assets.xml
+mods/images/funkmon/PIXELNOTE_assets.png
+mods/images/funkmon/PIXELNOTE_assets.xml
+mods/images/funkmon/PIXELnoteSplashes.png
+mods/images/funkmon/PIXELnoteSplashes.xml
+mods/images/funkmon/Swift_Note_assets.png
+mods/images/funkmon/Swift_Note_assets.xml
+mods/images/funkmon/Swift_Splash_assets.png
+mods/images/funkmon/Swift_Splash_assets.xml
 mods/songs/encounter/Voices.ogg
 mods/songs/encounter/voices.ogg
 mods/songs/encounter/Inst.ogg

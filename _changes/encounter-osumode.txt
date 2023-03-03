@@ -3,9 +3,6 @@ mods/data/encounter/encounter-easy.json
 mods/data/encounter/encounter.json
 mods/data/encounter/events.json
 mods/data/encounter/script.lua
-mods/images/funkmon/Dark BG.png
-mods/images/funkmon/Eevee art.png
-mods/images/funkmon/Encountert text warning.png
 mods/stages/Cliffside.json
 mods/stages/Cliffside.lua
 mods/custom_events/DodgeEvent.lua

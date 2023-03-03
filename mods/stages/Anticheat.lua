@@ -1,4 +1,7 @@
 function onCreate()
+	precacheImage('funkmon/Dark BG');
+	precacheImage('funkmon/Anticheat art');
+	precacheImage('funkmon/Anticheat text warning');
 	-- background shit
 	makeLuaSprite('Back', 'funkmon/Map23', -500, -500);
 	setScrollFactor('Back', 0.4, 0.4);

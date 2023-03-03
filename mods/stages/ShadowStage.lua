@@ -1,4 +1,7 @@
 function onCreate()
+	precacheImage('funkmon/Dark BG');
+	precacheImage('funkmon/Closed Heart art');
+	precacheImage('funkmon/Closed Heart text warning');
 	-- background shit
 	makeLuaSprite('Back', 'funkmon/Map33', -500, -500);
 	setScrollFactor('Back', 0.8, 0.8);

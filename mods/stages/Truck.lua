@@ -1,4 +1,7 @@
 function onCreate()
+	precacheImage('funkmon/Dark BG');
+	precacheImage('funkmon/Folklore art');
+	precacheImage('funkmon/Folklore text warning');
 	-- background shit
 	makeLuaSprite('Trueback', 'funkmon/Map14', -500, -500);
 	setScrollFactor('Trueback', 0.3, 0.3);
