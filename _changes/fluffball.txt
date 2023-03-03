@@ -1,0 +1,23 @@
+mods/data/fluffball/fluffball-extrakey.json
+mods/data/fluffball/fluffball-hard.json
+mods/data/fluffball/fluffball.json
+mods/characters/Eevee.json
+mods/characters/Sylveon.json
+mods/characters/Leafeon.json
+mods/stages/Forest.json
+mods/stages/Forest.lua
+mods/images/veefunkin/characters/Eevee.png
+mods/images/veefunkin/characters/Eevee.xml
+mods/images/veefunkin/characters/Sylveon.png
+mods/images/veefunkin/characters/Sylveon.xml
+mods/images/veefunkin/characters/Leafeon.png
+mods/images/veefunkin/characters/Leafeon.xml
+mods/characters/Sylveon Happi.json
+mods/custom_events/CameraZoomStuff.lua
+mods/images/veefunkin/Trees.png
+mods/images/veefunkin/Grass.png
+mods/images/veefunkin/Bushes.png
+mods/songs/fluffball/Voices.ogg
+mods/songs/fluffball/voices.ogg
+mods/songs/fluffball/Inst.ogg
+mods/songs/fluffball/inst.ogg

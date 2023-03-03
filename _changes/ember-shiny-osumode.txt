@@ -1,0 +1,6 @@
+mods/data/ember-shiny/ember-shiny-hard.json
+mods/stages/Volcan.json
+mods/stages/Volcan.lua
+mods/custom_events/CameraZoomStuff.lua
+mods/songs/ember-shiny/Inst.ogg
+mods/songs/ember-shiny/inst.ogg

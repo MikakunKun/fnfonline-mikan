@@ -1,0 +1,9 @@
+mods/data/chilly/chilly-extrakey.json
+mods/data/chilly/chilly-hard.json
+mods/data/chilly/chilly.json
+mods/stages/Snowy.json
+mods/stages/Snowy.lua
+mods/songs/chilly/Voices.ogg
+mods/songs/chilly/voices.ogg
+mods/songs/chilly/Inst.ogg
+mods/songs/chilly/inst.ogg

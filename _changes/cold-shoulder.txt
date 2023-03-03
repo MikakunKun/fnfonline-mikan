@@ -1,0 +1,21 @@
+mods/data/cold-shoulder/cold-shoulder-hard.json
+mods/data/cold-shoulder/cold-shoulder.json
+mods/characters/Speed worry.json
+mods/characters/Lazuli.json
+mods/stages/Snowy.json
+mods/stages/Snowy.lua
+mods/images/veefunkin/characters/Speed worry.png
+mods/images/veefunkin/characters/Speed worry.xml
+mods/images/veefunkin/characters/Lazuli.png
+mods/images/veefunkin/characters/Lazuli.xml
+mods/characters/Lazuli smile.json
+mods/images/veefunkin/characters/Lazuli smile.png
+mods/images/veefunkin/characters/Lazuli smile.xml
+mods/custom_events/CameraZoomStuff.lua
+mods/images/veefunkin/Snowysky.png
+mods/images/veefunkin/Snowystuff.png
+mods/images/veefunkin/Snowyfloor.png
+mods/songs/cold-shoulder/Voices.ogg
+mods/songs/cold-shoulder/voices.ogg
+mods/songs/cold-shoulder/Inst.ogg
+mods/songs/cold-shoulder/inst.ogg

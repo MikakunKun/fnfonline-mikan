@@ -1,0 +1,8 @@
+mods/data/ribbons/ribbons-hard.json
+mods/data/ribbons/ribbons.json
+mods/stages/Forest.json
+mods/stages/Forest.lua
+mods/songs/ribbons/Voices.ogg
+mods/songs/ribbons/voices.ogg
+mods/songs/ribbons/Inst.ogg
+mods/songs/ribbons/inst.ogg

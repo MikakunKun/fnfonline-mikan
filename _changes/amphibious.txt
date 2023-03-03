@@ -1,0 +1,26 @@
+mods/data/amphibious/amphibious-hard.json
+mods/data/amphibious/amphibious.json
+mods/characters/Eevee Swim.json
+mods/characters/Vaporeon Swim.json
+mods/characters/Leafeon Ocean.json
+mods/stages/Ocean.json
+mods/stages/Ocean.lua
+mods/images/veefunkin/characters/Eevee Swimmin.png
+mods/images/veefunkin/characters/Eevee Swimmin.xml
+mods/images/veefunkin/characters/Vaporeon swimmin.png
+mods/images/veefunkin/characters/Vaporeon swimmin.xml
+mods/images/veefunkin/characters/Leafeon Ocean.png
+mods/images/veefunkin/characters/Leafeon Ocean.xml
+mods/custom_events/Flash.lua
+mods/images/veefunkin/Ocean/Background.png
+mods/images/veefunkin/Ocean/Rock-back.png
+mods/images/veefunkin/Ocean/Rock-front.png
+mods/images/veefunkin/Ocean/Rock-far-far.png
+mods/images/veefunkin/Feesh.png
+mods/images/veefunkin/Feesh.xml
+mods/images/veefunkin/Black.png
+mods/images/veefunkin/white.png
+mods/songs/amphibious/Voices.ogg
+mods/songs/amphibious/voices.ogg
+mods/songs/amphibious/Inst.ogg
+mods/songs/amphibious/inst.ogg

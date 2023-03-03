@@ -1,0 +1,10 @@
+mods/data/surfer/script.lua
+mods/data/surfer/surfer-easy.json
+mods/data/surfer/surfer-hard.json
+mods/data/surfer/surfer.json
+mods/stages/petalburgwoods.json
+mods/stages/petalburgwoods.lua
+mods/songs/surfer/Voices.ogg
+mods/songs/surfer/voices.ogg
+mods/songs/surfer/Inst.ogg
+mods/songs/surfer/inst.ogg

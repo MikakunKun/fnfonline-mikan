@@ -1,0 +1,5 @@
+mods/data/steves/steves-hard.json
+mods/stages/null-stage.json
+mods/stages/null-stage.lua
+mods/songs/steves/Inst.ogg
+mods/songs/steves/inst.ogg

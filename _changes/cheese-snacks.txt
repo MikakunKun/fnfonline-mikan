@@ -1,0 +1,30 @@
+mods/data/cheese-snacks/cheese-snacks-hard.json
+mods/data/cheese-snacks/cheese-snacks.json
+mods/characters/Vap Snack.json
+mods/characters/Flare Snack.json
+mods/characters/where-she-go.json
+mods/stages/Snacks.json
+mods/stages/Snacks.lua
+mods/images/veefunkin/characters/Vap Snack.png
+mods/images/veefunkin/characters/Vap Snack.xml
+mods/images/veefunkin/characters/Flare Snack.png
+mods/images/veefunkin/characters/Flare Snack.xml
+mods/images/gf/where-she-go.png
+mods/images/gf/where-she-go.xml
+mods/characters/Leafeon Snack.json
+mods/images/veefunkin/characters/Leafeon Snack.png
+mods/images/veefunkin/characters/Leafeon Snack.xml
+mods/characters/Vap Snack Back.json
+mods/images/veefunkin/characters/Vap Snack Back.png
+mods/images/veefunkin/characters/Vap Snack Back.xml
+mods/characters/Flare Snack Back.json
+mods/images/veefunkin/characters/Flare Snack Back.png
+mods/images/veefunkin/characters/Flare Snack Back.xml
+mods/custom_events/CameraZoomStuff.lua
+mods/images/veefunkin/Snacks/Floor.png
+mods/images/veefunkin/Snacks/Wall.png
+mods/images/veefunkin/Snacks/What.png
+mods/songs/cheese-snacks/Voices.ogg
+mods/songs/cheese-snacks/voices.ogg
+mods/songs/cheese-snacks/Inst.ogg
+mods/songs/cheese-snacks/inst.ogg

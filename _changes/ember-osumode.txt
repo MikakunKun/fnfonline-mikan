@@ -1,0 +1,10 @@
+mods/data/ember/ember-hard.json
+mods/data/ember/ember-old.json
+mods/data/ember/ember.json
+mods/stages/Volcan.json
+mods/stages/Volcan.lua
+mods/custom_events/CameraZoomStuff.lua
+mods/songs/ember/Voices.ogg
+mods/songs/ember/voices.ogg
+mods/songs/ember/Inst.ogg
+mods/songs/ember/inst.ogg

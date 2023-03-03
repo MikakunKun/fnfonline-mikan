@@ -1,0 +1,9 @@
+mods/data/squad/squad-hard.json
+mods/data/squad/squad.json
+mods/stages/Forest.json
+mods/stages/Forest.lua
+mods/custom_events/Flash.lua
+mods/songs/squad/Voices.ogg
+mods/songs/squad/voices.ogg
+mods/songs/squad/Inst.ogg
+mods/songs/squad/inst.ogg

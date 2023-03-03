@@ -1,0 +1,18 @@
+mods/data/foliage/foliage-easy.json
+mods/data/foliage/foliage-hard.json
+mods/data/foliage/foliage.json
+mods/characters/Eevee.json
+mods/characters/Leafeon Sings.json
+mods/stages/Forest.json
+mods/stages/Forest.lua
+mods/images/veefunkin/characters/Eevee.png
+mods/images/veefunkin/characters/Eevee.xml
+mods/images/veefunkin/characters/Leafeon.png
+mods/images/veefunkin/characters/Leafeon.xml
+mods/images/veefunkin/Trees.png
+mods/images/veefunkin/Grass.png
+mods/images/veefunkin/Bushes.png
+mods/songs/foliage/Voices.ogg
+mods/songs/foliage/voices.ogg
+mods/songs/foliage/Inst.ogg
+mods/songs/foliage/inst.ogg

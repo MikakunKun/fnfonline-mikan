@@ -1,0 +1,34 @@
+mods/data/pokemon-master/pokemon-master-hard.json
+mods/data/pokemon-master/pokemon-master-hardest.json
+mods/data/pokemon-master/pokemon-master-old.json
+mods/characters/bf-pokemon-master.json
+mods/characters/red-pokemon-master.json
+mods/characters/where-she-go.json
+mods/stages/pokemon-master.json
+mods/stages/pokemon-master.lua
+mods/images/vsred/characters/bf-assets.png
+mods/images/vsred/characters/bf-assets.xml
+mods/images/vsred/characters/rederedred.png
+mods/images/vsred/characters/rederedred.xml
+mods/images/gf/where-she-go.png
+mods/images/gf/where-she-go.xml
+mods/characters/pixel-red-pokemon-master.json
+mods/images/vsred/characters/pixelred.png
+mods/images/vsred/characters/pixelred.xml
+mods/characters/pixel-bf-pokemon-master.json
+mods/images/vsred/characters/pixelbf.png
+mods/images/vsred/characters/pixelbf.xml
+mods/custom_notetypes/Pixel Liza Note.lua
+mods/custom_notetypes/pixelnote.lua
+mods/custom_notetypes/Pixel Pika Note.lua
+mods/custom_notetypes/Liza Note.lua
+mods/custom_notetypes/Pika Note.lua
+mods/images/vsred/healthBar.png
+mods/images/vsred/fondo_pokemon_1.png
+mods/images/vsred/fondo_pokemon_2.png
+mods/sounds/Flame.ogg
+mods/sounds/Thunder.ogg
+mods/songs/pokemon-master/Voices.ogg
+mods/songs/pokemon-master/voices.ogg
+mods/songs/pokemon-master/Inst.ogg
+mods/songs/pokemon-master/inst.ogg

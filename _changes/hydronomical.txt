@@ -1,0 +1,20 @@
+mods/data/hydronomical/hydronomical-easy.json
+mods/data/hydronomical/hydronomical-hard.json
+mods/data/hydronomical/hydronomical.json
+mods/data/hydronomical/script.lua
+mods/characters/swampert.json
+mods/characters/blazeandscep.json
+mods/stages/petalburgwoods.json
+mods/stages/petalburgwoods.lua
+mods/images/swampert/characters/swampert_assets.png
+mods/images/swampert/characters/swampert_assets.xml
+mods/images/swampert/characters/blaziken_and_sceptile_assets.png
+mods/images/swampert/characters/blaziken_and_sceptile_assets.xml
+mods/images/swampert/far back.png
+mods/images/swampert/back plants.png
+mods/images/swampert/ground.png
+mods/images/swampert/front plants.png
+mods/songs/hydronomical/Voices.ogg
+mods/songs/hydronomical/voices.ogg
+mods/songs/hydronomical/Inst.ogg
+mods/songs/hydronomical/inst.ogg

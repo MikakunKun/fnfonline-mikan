@@ -1,0 +1,8 @@
+mods/data/steves/steves-hard.json
+mods/characters/where-she-go.json
+mods/stages/null-stage.json
+mods/stages/null-stage.lua
+mods/images/gf/where-she-go.png
+mods/images/gf/where-she-go.xml
+mods/songs/steves/Inst.ogg
+mods/songs/steves/inst.ogg

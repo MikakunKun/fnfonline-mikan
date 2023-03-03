@@ -1,0 +1,9 @@
+mods/data/cheese-snacks/cheese-snacks-hard.json
+mods/data/cheese-snacks/cheese-snacks.json
+mods/stages/Snacks.json
+mods/stages/Snacks.lua
+mods/custom_events/CameraZoomStuff.lua
+mods/songs/cheese-snacks/Voices.ogg
+mods/songs/cheese-snacks/voices.ogg
+mods/songs/cheese-snacks/Inst.ogg
+mods/songs/cheese-snacks/inst.ogg

@@ -1,0 +1,187 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Eevee Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25
+			],
+			"name": "Eevee Idle"
+		},
+		{
+			"offsets": [
+				27,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Eevee Left"
+		},
+		{
+			"offsets": [
+				-38,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Eevee Right"
+		},
+		{
+			"offsets": [
+				-26,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Eevee Up"
+		},
+		{
+			"offsets": [
+				102,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Eevee Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Eevee MissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				-149
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Eevee MissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				37
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Eevee MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-18
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Eevee MissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				14
+			],
+			"anim": "Eevee Waiting",
+			"fps": 24,
+			"name": "Eevee Waiting",
+			"indices": []
+		},
+		{
+			"offsets": [
+				28,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Eevee Pose",
+			"indices": [],
+			"name": "Eevee Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "veefunkin/characters/Eevee",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "veefunkin/Vee",
+	"flip_x": true,
+	"healthbar_colors": [
+		202,
+		109,
+		67
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"rating_position": [
+		0,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

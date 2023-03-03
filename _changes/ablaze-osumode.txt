@@ -1,0 +1,9 @@
+mods/data/ablaze/ablaze-hard.json
+mods/data/ablaze/ablaze-old.json
+mods/stages/Volcan.json
+mods/stages/Volcan.lua
+mods/custom_events/CameraZoomStuff.lua
+mods/songs/ablaze/Voices.ogg
+mods/songs/ablaze/voices.ogg
+mods/songs/ablaze/Inst.ogg
+mods/songs/ablaze/inst.ogg

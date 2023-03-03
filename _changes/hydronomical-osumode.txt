@@ -1,0 +1,10 @@
+mods/data/hydronomical/hydronomical-easy.json
+mods/data/hydronomical/hydronomical-hard.json
+mods/data/hydronomical/hydronomical.json
+mods/data/hydronomical/script.lua
+mods/stages/petalburgwoods.json
+mods/stages/petalburgwoods.lua
+mods/songs/hydronomical/Voices.ogg
+mods/songs/hydronomical/voices.ogg
+mods/songs/hydronomical/Inst.ogg
+mods/songs/hydronomical/inst.ogg

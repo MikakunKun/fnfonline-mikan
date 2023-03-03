@@ -1,0 +1,8 @@
+mods/data/low-tide/low-tide-hard.json
+mods/data/low-tide/low-tide.json
+mods/stages/Beach.json
+mods/stages/Beach.lua
+mods/songs/low-tide/Voices.ogg
+mods/songs/low-tide/voices.ogg
+mods/songs/low-tide/Inst.ogg
+mods/songs/low-tide/inst.ogg

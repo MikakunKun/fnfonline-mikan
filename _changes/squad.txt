@@ -1,0 +1,25 @@
+mods/data/squad/squad-hard.json
+mods/data/squad/squad.json
+mods/characters/Eevee.json
+mods/characters/Speed.json
+mods/characters/Leafeon.json
+mods/stages/Forest.json
+mods/stages/Forest.lua
+mods/images/veefunkin/characters/Eevee.png
+mods/images/veefunkin/characters/Eevee.xml
+mods/images/veefunkin/characters/Speed.png
+mods/images/veefunkin/characters/Speed.xml
+mods/images/veefunkin/characters/Leafeon.png
+mods/images/veefunkin/characters/Leafeon.xml
+mods/characters/Speed Champ.json
+mods/images/veefunkin/characters/Speed Champ.png
+mods/images/veefunkin/characters/Speed Champ.xml
+mods/custom_events/Flash.lua
+mods/images/veefunkin/Trees.png
+mods/images/veefunkin/Grass.png
+mods/images/veefunkin/Bushes.png
+mods/images/veefunkin/white.png
+mods/songs/squad/Voices.ogg
+mods/songs/squad/voices.ogg
+mods/songs/squad/Inst.ogg
+mods/songs/squad/inst.ogg

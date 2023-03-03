@@ -1,0 +1,20 @@
+mods/data/ember-shiny/ember-shiny-hard.json
+mods/characters/Eevee.json
+mods/characters/Flareon.json
+mods/characters/Leafeon burnin.json
+mods/stages/Volcan.json
+mods/stages/Volcan.lua
+mods/images/veefunkin/characters/Eevee.png
+mods/images/veefunkin/characters/Eevee.xml
+mods/images/veefunkin/characters/Flareon.png
+mods/images/veefunkin/characters/Flareon.xml
+mods/images/veefunkin/characters/Leafeon burnin.png
+mods/images/veefunkin/characters/Leafeon burnin.xml
+mods/custom_events/CameraZoomStuff.lua
+mods/images/veefunkin/Volcan-BG.png
+mods/images/veefunkin/Volcan-Cano.png
+mods/images/veefunkin/Volcan-Ground.png
+mods/images/veefunkin/Volcan-Lava.png
+mods/images/veefunkin/Volcan-Lava.xml
+mods/songs/ember-shiny/Inst.ogg
+mods/songs/ember-shiny/inst.ogg

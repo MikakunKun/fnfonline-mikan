@@ -1,0 +1,9 @@
+mods/data/foliage/foliage-easy.json
+mods/data/foliage/foliage-hard.json
+mods/data/foliage/foliage.json
+mods/stages/Forest.json
+mods/stages/Forest.lua
+mods/songs/foliage/Voices.ogg
+mods/songs/foliage/voices.ogg
+mods/songs/foliage/Inst.ogg
+mods/songs/foliage/inst.ogg

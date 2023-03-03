@@ -1,0 +1,20 @@
+mods/data/surfer/script.lua
+mods/data/surfer/surfer-easy.json
+mods/data/surfer/surfer-hard.json
+mods/data/surfer/surfer.json
+mods/characters/swampert.json
+mods/characters/blazeandscep.json
+mods/stages/petalburgwoods.json
+mods/stages/petalburgwoods.lua
+mods/images/swampert/characters/swampert_assets.png
+mods/images/swampert/characters/swampert_assets.xml
+mods/images/swampert/characters/blaziken_and_sceptile_assets.png
+mods/images/swampert/characters/blaziken_and_sceptile_assets.xml
+mods/images/swampert/far back.png
+mods/images/swampert/back plants.png
+mods/images/swampert/ground.png
+mods/images/swampert/front plants.png
+mods/songs/surfer/Voices.ogg
+mods/songs/surfer/voices.ogg
+mods/songs/surfer/Inst.ogg
+mods/songs/surfer/inst.ogg

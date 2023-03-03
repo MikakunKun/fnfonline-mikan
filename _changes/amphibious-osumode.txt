@@ -1,0 +1,9 @@
+mods/data/amphibious/amphibious-hard.json
+mods/data/amphibious/amphibious.json
+mods/stages/Ocean.json
+mods/stages/Ocean.lua
+mods/custom_events/Flash.lua
+mods/songs/amphibious/Voices.ogg
+mods/songs/amphibious/voices.ogg
+mods/songs/amphibious/Inst.ogg
+mods/songs/amphibious/inst.ogg

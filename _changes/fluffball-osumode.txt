@@ -1,0 +1,10 @@
+mods/data/fluffball/fluffball-extrakey.json
+mods/data/fluffball/fluffball-hard.json
+mods/data/fluffball/fluffball.json
+mods/stages/Forest.json
+mods/stages/Forest.lua
+mods/custom_events/CameraZoomStuff.lua
+mods/songs/fluffball/Voices.ogg
+mods/songs/fluffball/voices.ogg
+mods/songs/fluffball/Inst.ogg
+mods/songs/fluffball/inst.ogg

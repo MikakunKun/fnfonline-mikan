@@ -1,0 +1,16 @@
+mods/data/pokemon-master/pokemon-master-hard.json
+mods/data/pokemon-master/pokemon-master-hardest.json
+mods/data/pokemon-master/pokemon-master-old.json
+mods/stages/pokemon-master.json
+mods/stages/pokemon-master.lua
+mods/custom_notetypes/Pixel Liza Note.lua
+mods/custom_notetypes/pixelnote.lua
+mods/custom_notetypes/Pixel Pika Note.lua
+mods/custom_notetypes/Liza Note.lua
+mods/custom_notetypes/Pika Note.lua
+mods/sounds/Flame.ogg
+mods/sounds/Thunder.ogg
+mods/songs/pokemon-master/Voices.ogg
+mods/songs/pokemon-master/voices.ogg
+mods/songs/pokemon-master/Inst.ogg
+mods/songs/pokemon-master/inst.ogg

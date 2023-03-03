@@ -1,0 +1,9 @@
+mods/data/cold-shoulder/cold-shoulder-hard.json
+mods/data/cold-shoulder/cold-shoulder.json
+mods/stages/Snowy.json
+mods/stages/Snowy.lua
+mods/custom_events/CameraZoomStuff.lua
+mods/songs/cold-shoulder/Voices.ogg
+mods/songs/cold-shoulder/voices.ogg
+mods/songs/cold-shoulder/Inst.ogg
+mods/songs/cold-shoulder/inst.ogg
