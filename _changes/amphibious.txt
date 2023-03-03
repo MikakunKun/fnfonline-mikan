@@ -1,5 +1,7 @@
 mods/data/amphibious/amphibious-hard.json
 mods/data/amphibious/amphibious.json
+mods/data/amphibious/BF Float.lua
+mods/data/amphibious/Float character.lua
 mods/characters/Eevee Swim.json
 mods/characters/Vaporeon Swim.json
 mods/characters/Leafeon Ocean.json
