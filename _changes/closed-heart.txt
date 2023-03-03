@@ -15,6 +15,9 @@ mods/images/funkmon/characters/noGF.png
 mods/images/funkmon/characters/noGF.xml
 mods/custom_notetypes/Shadow Note.lua
 mods/custom_events/Image Flash.lua
+mods/images/funkmon/Dark BG.png
+mods/images/funkmon/Closed Heart art.png
+mods/images/funkmon/Closed Heart text warning.png
 mods/images/funkmon/Map33.png
 mods/images/funkmon/Map32.png
 mods/images/funkmon/Map31.png

@@ -1,6 +1,9 @@
 mods/data/anticheat/anticheat-challenge.json
 mods/data/anticheat/script.lua
 mods/data/anticheat/script2.lua
+mods/images/funkmon/Dark BG.png
+mods/images/funkmon/Anticheat art.png
+mods/images/funkmon/Anticheat text warning.png
 mods/stages/Anticheat.json
 mods/stages/Anticheat.lua
 mods/custom_notetypes/Glitch Note.lua

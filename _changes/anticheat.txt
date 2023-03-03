@@ -15,6 +15,9 @@ mods/images/funkmon/characters/noGF.xml
 mods/custom_notetypes/Glitch Note.lua
 mods/custom_events/Middlescroll.lua
 mods/custom_events/Image Flash.lua
+mods/images/funkmon/Dark BG.png
+mods/images/funkmon/Anticheat art.png
+mods/images/funkmon/Anticheat text warning.png
 mods/images/funkmon/Map23.png
 mods/images/funkmon/Map22.png
 mods/images/funkmon/Map21.png

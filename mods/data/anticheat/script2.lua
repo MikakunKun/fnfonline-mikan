@@ -3,11 +3,11 @@ local seenCutscene = false;
 
 function onStartCountdown()
 	if not seenCutscene and not allowCountdown then
-		makeLuaSprite('dark', 'funkmon/Dark-BG', 0, 0);
+		makeLuaSprite('dark', 'funkmon/Dark BG', 0, 0);
 		addLuaSprite('dark', true);
-		makeLuaSprite('art', 'funkmon/Anticheat-art', 0, 1000);
+		makeLuaSprite('art', 'funkmon/Anticheat art', 0, 1000);
 		addLuaSprite('art', true);
-		makeLuaSprite('text', 'funkmon/Anticheat-text warning', 0, 400);
+		makeLuaSprite('text', 'funkmon/Anticheat text warning', 0, 400);
 		addLuaSprite('text', true);
 		setObjectCamera('text', 'other');
 		setObjectCamera('art', 'other');

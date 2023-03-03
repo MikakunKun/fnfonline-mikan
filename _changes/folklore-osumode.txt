@@ -1,6 +1,9 @@
 mods/data/folklore/folklore-challenge.json
 mods/data/folklore/script.lua
 mods/data/folklore/script2.lua
+mods/images/funkmon/Dark BG.png
+mods/images/funkmon/Folklore art.png
+mods/images/funkmon/Folklore text warning.png
 mods/stages/Truck.json
 mods/stages/Truck.lua
 mods/custom_notetypes/Confusion Note.lua

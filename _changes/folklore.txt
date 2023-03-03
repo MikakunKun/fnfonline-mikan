@@ -14,6 +14,9 @@ mods/images/funkmon/characters/Spinda_GF.png
 mods/images/funkmon/characters/Spinda_GF.xml
 mods/custom_notetypes/Confusion Note.lua
 mods/custom_events/Image Flash.lua
+mods/images/funkmon/Dark BG.png
+mods/images/funkmon/Folklore art.png
+mods/images/funkmon/Folklore text warning.png
 mods/images/funkmon/Map14.png
 mods/images/funkmon/Map13.png
 mods/images/funkmon/Map42.png

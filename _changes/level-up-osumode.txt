@@ -3,6 +3,10 @@ mods/data/level-up/level-up-challenge.json
 mods/data/level-up/level-up-easy.json
 mods/data/level-up/level-up.json
 mods/data/level-up/script.lua
+mods/images/funkmon/Warning.png
+mods/images/funkmon/Dark BG.png
+mods/images/funkmon/Eevee art.png
+mods/images/funkmon/Level up text warning.png
 mods/stages/Cliffside.json
 mods/stages/Cliffside.lua
 mods/custom_notetypes/Swift Note.lua

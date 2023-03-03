@@ -2,6 +2,9 @@ mods/data/closed-heart/closed-heart-challenge.json
 mods/data/closed-heart/events.json
 mods/data/closed-heart/script.lua
 mods/data/closed-heart/script2.lua
+mods/images/funkmon/Dark BG.png
+mods/images/funkmon/Closed Heart art.png
+mods/images/funkmon/Closed Heart text warning.png
 mods/stages/ShadowStage.json
 mods/stages/ShadowStage.lua
 mods/custom_notetypes/Shadow Note.lua
