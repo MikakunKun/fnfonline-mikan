@@ -38,7 +38,7 @@ function onStepHit()
 	    addLuaSprite('Back', false);
 	    addLuaSprite('Mid', false);
 	    addLuaSprite('Front', true);
-		makeLuaSprite('flash', 'White Screen', 0, 0);
+		makeLuaSprite('flash', 'funkmon/white screen', 0, 0);
 		setObjectCamera('flash', 'other');
 		setScrollFactor('flash', 0, 0);
 

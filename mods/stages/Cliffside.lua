@@ -2,6 +2,7 @@ function onCreate()
 	precacheImage('funkmon/warning');
 	precacheImage('funkmon/Dark BG');
 	precacheImage('funkmon/Eevee art');
+	precacheImage('funkmon/funkmon/white screen');
 
 	precacheImage('funkmon/Level up text warning');
 	precacheImage('funkmon/Encounter text warning');
