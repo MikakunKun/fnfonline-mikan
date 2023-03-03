@@ -1,4 +1,8 @@
 mods/data/blackout/blackout-hard.json
+mods/characters/kaiju-paradise-bf-pixel.json
+mods/characters/Figs.json
+mods/images/kaiju-paradise/characters/bfPixel.png
+mods/images/kaiju-paradise/characters/bfPixel.xml
 mods/songs/blackout/Voices.ogg
 mods/songs/blackout/voices.ogg
 mods/songs/blackout/Inst.ogg

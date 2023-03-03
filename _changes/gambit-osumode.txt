@@ -1,0 +1,13 @@
+mods/data/gambit/gambit-challenge.json
+mods/data/gambit/gambit-easy.json
+mods/data/gambit/gambit.json
+mods/data/gambit/script.lua
+mods/stages/Cliffside.json
+mods/stages/Cliffside.lua
+mods/custom_notetypes/Swift Note.lua
+mods/custom_events/Image Flash.lua
+mods/custom_events/DodgeEvent.lua
+mods/songs/gambit/Voices.ogg
+mods/songs/gambit/voices.ogg
+mods/songs/gambit/Inst.ogg
+mods/songs/gambit/inst.ogg

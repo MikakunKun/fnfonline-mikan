@@ -3,6 +3,7 @@ mods/weeks/b.json
 mods/weeks/c.json
 mods/weeks/e.json
 mods/weeks/f.json
+mods/weeks/g.json
 mods/weeks/h.json
 mods/weeks/i.json
 mods/weeks/k.json

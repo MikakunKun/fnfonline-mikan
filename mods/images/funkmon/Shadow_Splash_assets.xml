@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Shadow_Splash_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash B 10000" x="0" y="0" width="320" height="320"/>
+	<SubTexture name="note splash B 10001" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="note splash B 10002" x="640" y="0" width="320" height="320"/>
+	<SubTexture name="note splash B 10003" x="960" y="0" width="320" height="320"/>
+	<SubTexture name="note splash B 20000" x="0" y="0" width="320" height="320"/>
+	<SubTexture name="note splash B 20001" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="note splash B 20002" x="640" y="0" width="320" height="320"/>
+	<SubTexture name="note splash B 20003" x="960" y="0" width="320" height="320"/>
+	<SubTexture name="note splash C 10000" x="0" y="0" width="320" height="320"/>
+	<SubTexture name="note splash C 10001" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="note splash C 10002" x="640" y="0" width="320" height="320"/>
+	<SubTexture name="note splash C 10003" x="960" y="0" width="320" height="320"/>
+	<SubTexture name="note splash C 20000" x="0" y="0" width="320" height="320"/>
+	<SubTexture name="note splash C 20001" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="note splash C 20002" x="640" y="0" width="320" height="320"/>
+	<SubTexture name="note splash C 20003" x="960" y="0" width="320" height="320"/>
+	<SubTexture name="note splash D 10000" x="0" y="0" width="320" height="320"/>
+	<SubTexture name="note splash D 10001" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="note splash D 10002" x="640" y="0" width="320" height="320"/>
+	<SubTexture name="note splash D 10003" x="960" y="0" width="320" height="320"/>
+	<SubTexture name="note splash D 20000" x="0" y="0" width="320" height="320"/>
+	<SubTexture name="note splash D 20001" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="note splash D 20002" x="640" y="0" width="320" height="320"/>
+	<SubTexture name="note splash D 20003" x="960" y="0" width="320" height="320"/>
+	<SubTexture name="note splash A 10000" x="0" y="0" width="320" height="320"/>
+	<SubTexture name="note splash A 10001" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="note splash A 10002" x="640" y="0" width="320" height="320"/>
+	<SubTexture name="note splash A 10003" x="960" y="0" width="320" height="320"/>
+	<SubTexture name="note splash A 20000" x="0" y="0" width="320" height="320"/>
+	<SubTexture name="note splash A 20001" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="note splash A 20002" x="640" y="0" width="320" height="320"/>
+	<SubTexture name="note splash A 20003" x="960" y="0" width="320" height="320"/>
+</TextureAtlas>

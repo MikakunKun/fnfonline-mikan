@@ -1,0 +1,28 @@
+mods/data/closed-heart/closed-heart-challenge.json
+mods/data/closed-heart/events.json
+mods/data/closed-heart/script.lua
+mods/data/closed-heart/script2.lua
+mods/characters/playable-spinda-gf.json
+mods/characters/dark-bf.json
+mods/characters/no-gf.json
+mods/stages/ShadowStage.json
+mods/stages/ShadowStage.lua
+mods/images/funkmon/characters/Playable_Spinda_GF.png
+mods/images/funkmon/characters/Playable_Spinda_GF.xml
+mods/images/funkmon/characters/Dark_BF.png
+mods/images/funkmon/characters/Dark_BF.xml
+mods/images/funkmon/characters/noGF.png
+mods/images/funkmon/characters/noGF.xml
+mods/custom_notetypes/Shadow Note.lua
+mods/custom_events/Image Flash.lua
+mods/images/funkmon/Map33.png
+mods/images/funkmon/Map32.png
+mods/images/funkmon/Map31.png
+mods/images/funkmon/Shadow_Note_assets.png
+mods/images/funkmon/Shadow_Note_assets.xml
+mods/images/funkmon/Shadow_Splash_assets.png
+mods/images/funkmon/Shadow_Splash_assets.xml
+mods/songs/closed-heart/Voices.ogg
+mods/songs/closed-heart/voices.ogg
+mods/songs/closed-heart/Inst.ogg
+mods/songs/closed-heart/inst.ogg

@@ -1,0 +1,33 @@
+mods/data/level-up/events.json
+mods/data/level-up/level-up-challenge.json
+mods/data/level-up/level-up-easy.json
+mods/data/level-up/level-up.json
+mods/data/level-up/script.lua
+mods/characters/patirisu-bf.json
+mods/characters/funkmon-eevee.json
+mods/characters/spinda-gf.json
+mods/stages/Cliffside.json
+mods/stages/Cliffside.lua
+mods/images/funkmon/characters/Patirisu_BF.png
+mods/images/funkmon/characters/Patirisu_BF.xml
+mods/images/funkmon/characters/Eevee.png
+mods/images/funkmon/characters/Eevee.xml
+mods/images/funkmon/characters/Spinda_GF.png
+mods/images/funkmon/characters/Spinda_GF.xml
+mods/custom_notetypes/Swift Note.lua
+mods/custom_events/DodgeEvent.lua
+mods/custom_events/Image Flash.lua
+mods/images/funkmon/Map14.png
+mods/images/funkmon/MapPixel1.png
+mods/images/funkmon/Map13.png
+mods/images/funkmon/Map12.png
+mods/images/funkmon/Map11.png
+mods/images/funkmon/Swift_Note_assets.png
+mods/images/funkmon/Swift_Note_assets.xml
+mods/images/funkmon/Swift_Splash_assets.png
+mods/images/funkmon/Swift_Splash_assets.xml
+mods/images/funkmon/warning.png
+mods/songs/level-up/Voices.ogg
+mods/songs/level-up/voices.ogg
+mods/songs/level-up/Inst.ogg
+mods/songs/level-up/inst.ogg

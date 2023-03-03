@@ -1,0 +1,29 @@
+mods/data/folklore/folklore-challenge.json
+mods/data/folklore/script.lua
+mods/data/folklore/script2.lua
+mods/characters/patirisu-bf.json
+mods/characters/mew.json
+mods/characters/spinda-gf.json
+mods/stages/Truck.json
+mods/stages/Truck.lua
+mods/images/funkmon/characters/Patirisu_BF.png
+mods/images/funkmon/characters/Patirisu_BF.xml
+mods/images/funkmon/characters/Mew.png
+mods/images/funkmon/characters/Mew.xml
+mods/images/funkmon/characters/Spinda_GF.png
+mods/images/funkmon/characters/Spinda_GF.xml
+mods/custom_notetypes/Confusion Note.lua
+mods/custom_events/Image Flash.lua
+mods/images/funkmon/Map14.png
+mods/images/funkmon/Map13.png
+mods/images/funkmon/Map42.png
+mods/images/funkmon/Map41.png
+mods/images/funkmon/Map40.png
+mods/images/funkmon/Confusion_Note_assets.png
+mods/images/funkmon/Confusion_Note_assets.xml
+mods/images/funkmon/Confusion_Splash_assets.png
+mods/images/funkmon/Confusion_Splash_assets.xml
+mods/songs/folklore/Voices.ogg
+mods/songs/folklore/voices.ogg
+mods/songs/folklore/Inst.ogg
+mods/songs/folklore/inst.ogg

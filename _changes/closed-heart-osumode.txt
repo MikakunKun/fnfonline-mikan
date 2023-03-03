@@ -1,0 +1,12 @@
+mods/data/closed-heart/closed-heart-challenge.json
+mods/data/closed-heart/events.json
+mods/data/closed-heart/script.lua
+mods/data/closed-heart/script2.lua
+mods/stages/ShadowStage.json
+mods/stages/ShadowStage.lua
+mods/custom_notetypes/Shadow Note.lua
+mods/custom_events/Image Flash.lua
+mods/songs/closed-heart/Voices.ogg
+mods/songs/closed-heart/voices.ogg
+mods/songs/closed-heart/Inst.ogg
+mods/songs/closed-heart/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/anticheat/anticheat-challenge.json
+mods/data/anticheat/script.lua
+mods/data/anticheat/script2.lua
+mods/stages/Anticheat.json
+mods/stages/Anticheat.lua
+mods/custom_notetypes/Glitch Note.lua
+mods/custom_events/Middlescroll.lua
+mods/custom_events/Image Flash.lua
+mods/songs/anticheat/Voices.ogg
+mods/songs/anticheat/voices.ogg
+mods/songs/anticheat/Inst.ogg
+mods/songs/anticheat/inst.ogg

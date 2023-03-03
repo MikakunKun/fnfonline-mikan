@@ -1,4 +1,10 @@
 mods/data/kaiju/kaiju-hard.json
+mods/characters/kaiju-paradise-bf-pixel.json
+mods/characters/kaiju.json
+mods/images/kaiju-paradise/characters/bfPixel.png
+mods/images/kaiju-paradise/characters/bfPixel.xml
+mods/images/kaiju-paradise/characters/kaiju.png
+mods/images/kaiju-paradise/characters/kaiju.xml
 mods/songs/kaiju/Voices.ogg
 mods/songs/kaiju/voices.ogg
 mods/songs/kaiju/Inst.ogg
