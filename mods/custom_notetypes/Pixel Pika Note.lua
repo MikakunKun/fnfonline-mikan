@@ -9,7 +9,7 @@ function onCreate()
 		end
 	end
 end
-function flame(noteType)
+function goodNoteHit(membersIndex, noteData, noteType, isSustainNote)
 	if (noteType == 'Pixel Pika Note') then
 		playSound('Thunder',1)
 	end

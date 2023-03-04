@@ -10,7 +10,7 @@ function onCreate()
 	end
 end
 
-function flame(noteType)
+function goodNoteHit(membersIndex, noteData, noteType, isSustainNote)
 	if (noteType == 'Pixel Liza Note') then
 		playSound('Flame',1)
 	end

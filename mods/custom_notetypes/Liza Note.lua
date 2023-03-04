@@ -9,8 +9,7 @@ function onCreate()
 		end
 	end
 end
-
-function flame(noteType)
+function goodNoteHit(membersIndex, noteData, noteType, isSustainNote)
 	if (noteType == 'Liza Note') then
 		playSound('Flame',1)
 	end

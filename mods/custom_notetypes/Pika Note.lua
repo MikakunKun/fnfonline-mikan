@@ -10,7 +10,7 @@ function onCreate()
 	end
 end
 
-function flame(noteType)
+function goodNoteHit(membersIndex, noteData, noteType, isSustainNote)
 	if (noteType == 'Pika Note') then
 		playSound('Thunder',1)
 	end
