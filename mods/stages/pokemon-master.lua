@@ -2,6 +2,8 @@ local pixel = false
 local keybindshow = false
 local death = false
 function onCreate()
+	precacheSound('Flame')
+	precacheSound('Thunder')
 	makeLuaSprite('PokemonhealthBar', 'vsred/healthBar', -25, 510);
 	if (downscroll) then
 		setProperty('PokemonhealthBar.x', -25)
