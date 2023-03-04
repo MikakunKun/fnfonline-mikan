@@ -23,6 +23,8 @@ mods/custom_notetypes/pixelnote.lua
 mods/custom_notetypes/Pixel Pika Note.lua
 mods/custom_notetypes/Liza Note.lua
 mods/custom_notetypes/Pika Note.lua
+mods/sounds/Flame.ogg
+mods/sounds/Thunder.ogg
 mods/images/vsred/healthBar.png
 mods/images/vsred/fondo_pokemon_1.png
 mods/images/vsred/charizard.png
@@ -36,12 +38,10 @@ mods/images/vsred/pixelpikachu.png
 mods/images/vsred/pixelpikachu.xml
 mods/images/vsred/fuegopixelnotes.png
 mods/images/vsred/fuegopixelnotes.xml
-mods/sounds/Flame.ogg
 mods/images/vsred/NOTE_assets.png
 mods/images/vsred/NOTE_assets.xml
 mods/images/vsred/flechassssssss.png
 mods/images/vsred/flechassssssss.xml
-mods/sounds/Thunder.ogg
 mods/images/vsred/LIZANOTE_assets.png
 mods/images/vsred/LIZANOTE_assets.xml
 mods/images/vsred/PIKANOTE_assets.png
